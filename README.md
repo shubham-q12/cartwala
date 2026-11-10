@@ -1,1 +1,2 @@
 # cartwala
+Cartwala is an e-commerce platform that specializes in providing a wide range of products and services to customers. Our mission is to make online shopping convenient and accessible for everyone. With a user-friendly interface and a diverse selection of items, Cartwala aims to enhance the online shopping experience for all users.
